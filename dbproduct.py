@@ -30,4 +30,4 @@ if __name__ == "__main__":
         is_done = input("Apakah selesai (y/n)?:")
         if is_done == "y" or is_done == "Y":
             break
-        print("Progra berakhir. Terima kasih")
+        print("Program berakhir. Terima kasih")
